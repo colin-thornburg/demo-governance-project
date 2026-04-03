@@ -3,3 +3,4 @@ logs/
 dbt_packages/
 .env
 *.user.yml
+dbt_internal_packages/

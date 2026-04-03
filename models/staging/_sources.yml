@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: ecommerce
-    schema: main
+    schema: dbt_gov_cthornburg
     description: "Raw ecommerce data loaded via dbt seeds"
     tables:
       - name: raw_orders
